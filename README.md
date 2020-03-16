@@ -1,6 +1,9 @@
 # Voyager Frontend
 
 ![Voyager Frontend Screenshot](/readme-intro.jpg)
+![Voyager Frontend Screenshot](/readme-intro.jpg)
+![Voyager Frontend Screenshot](/readme-intro.jpg)
+
 
 __The Missing Frontend for The Missing Laravel Admin.__
 
